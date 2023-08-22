@@ -30,7 +30,7 @@ This project is a React application that displays random advice on a card. The a
 
 ## Demo
 
-You can check out a live example of the project 
+You can check out a live example of the project: https://advice-generator-app-mircntzr.vercel.app/
 
 ## Contributing
 
